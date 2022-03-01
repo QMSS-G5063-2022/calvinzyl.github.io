@@ -1,4 +1,10 @@
-# Group_Y_NFT
+# Group_Y_NFT #
+Taha Saeed - ts3338@columbia.edu
+<br>Fulin Wang - fw2375@columbia.edu
+<br>Junting Zhou - jz3388@columbia.edu
+<br>Yanlin Zhang - yz4148@columbia.edu
+
+
 
 ### **What will we be doing?** ###
 In this project our team will be creating an interactive visualization of NFT pricing in the Ethereum Network and Solana Networks over 2020-2021. Our aim is to provide a user a clear sense of the price of nfts in the relevant crypto currency as well as in USD.
