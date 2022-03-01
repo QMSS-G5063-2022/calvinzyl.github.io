@@ -7,7 +7,7 @@ Taha Saeed - ts3338@columbia.edu
 
 
 ### **What will we be doing?** ###
-In this project our team will be creating an interactive visualization of NFT pricing in the Ethereum Network and Solana Networks over 2020-2021. Our aim is to provide a user a clear sense of the price of nfts in the relevant crypto currency as well as in USD.
+In this project our team will be creating an interactive visualization of NFT pricing in the Ethereum Network and Solana Networks over 2020-2021. Our aim is to provide a user a clear sense of the price of NFTs in the relevant crypto currency as well as in USD.
 
 We found our data on Kaggle. All the datasets include the history sales of different NFT Network we chose. We dedicate to create visualizations there or simply compare the differences of the graphs. 
 
