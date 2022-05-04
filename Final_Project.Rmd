@@ -52,8 +52,8 @@ library(patchwork)
 library(cowplot)
 library(magick)
 
-history_sales = read.csv("/Users/yanlinzhang/Desktop/Data Visualization/Group_Y_NFT/NFT_Sales 2.csv")
-collections_sales = read.csv("/Users/yanlinzhang/Desktop/Data Visualization/Group_Y_NFT/nft_sales.csv")
+history_sales = read.csv("/Users/yanlinzhang/Desktop/Data Visualization/Group_Y_NFT/data/NFT_Sales 2.csv")
+collections_sales = read.csv("/Users/yanlinzhang/Desktop/Data Visualization/Group_Y_NFT/data/nft_sales.csv")
 ```
 
 
@@ -239,6 +239,17 @@ user20 <- plot_ly(history_sales_cleaned, x=~Date, y=~Active_Market_Wallets,
 subplot(user17, user20, nrows = 2, titleY = TRUE)
 ```
 
+
+<section style="text-align: left;">
+
+<small>
+-   As we can see from the net growth trend, NFT heated up in 2021, especially during the last quarter. Customers turn crazy about it. In October, it riches a maximum of 30k daily active users.<br>
+-   However, the trend seems to decease after the maximum, it still has a much more active users than any periods before 2021.<br>
+</small>
+
+</section>
+
+
 <!--
 
 ## NFT Growth Trend
@@ -284,8 +295,19 @@ secondary <- plot_ly(history_sales_cleaned, x=~Date, y=~Secondary_Sales_cumsum,
 subplot(primary, secondary, nrows = 2, titleY = TRUE)
 ```
 
+<section style="text-align: left;">
 
-## Etheruem NFT Network
+<small>
+-   As we look into the net growth trends, we can see that the primary marketing has an uphill trend and the slope gets steeper after August of 2021. The net sales even passed 6 million dollars. It's not hard to see that people have been investing as they see NFT as a huge opportunity. More and more people would like to dive into the NFT projects.<br>
+-   On the other hand, if we look at the secondary market, during the same period of the fourth quarter of 2021, it's maximum sales was only around 60K which was almost 100 times smaller than the primary market. Also the trend goes up and down, and is more volatile than the primary market.<br>
+</small>
+
+</section>
+
+
+
+
+## Ethereum NFT Network
 
 <section style="text-align: left;">
 
@@ -383,7 +405,7 @@ library(patchwork)
 library(cowplot)
 library(magick)
 
-df2 <- read.csv("/Users/yanlinzhang/Desktop/Data Visualization/Group_Y_NFT/50K nft tweets.csv", header = TRUE)
+df2 <- read.csv("/Users/yanlinzhang/Desktop/Data Visualization/Group_Y_NFT/data/50K nft tweets.csv", header = TRUE)
 ```
 
 
