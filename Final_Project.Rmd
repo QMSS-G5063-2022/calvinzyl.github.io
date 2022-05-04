@@ -27,7 +27,7 @@ editor_options:
 
 [NFT Data Visualization Group Project]{style="color:black; font-weight:bold; font-size:60px"}
 
-<br> QMSS - Columbia University<br> Spring 2022<br> Taha Saeed, Fulin Wang, Junting Zhou, Yanlin Zhang\
+<br> QMSS - Columbia University<br> Spring 2022<br>  Taha Saeed, Fulin Wang, Junting Zhou, Yanlin Zhang\
 <br>
 
 ```{r, echo=FALSE, out.width = "65%"}
