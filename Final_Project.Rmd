@@ -761,19 +761,17 @@ _(Note: the pyLDAvis is a Python API for interactive topic model visualization. 
 
 <small>
 
-* The NFT network made references to Avery Smith's network analysis tutorial and several course materials from Dr. Gregory Eirich's Social Network Analysis class.
-* The interative LDA visualization output was set up by referring to some of the existing text preprocessing functions from Dr. Patrick Houlihan's _utils.py_ codebook.
+* The NFT network made references to Avery Smith's network analysis tutorial and several course materials from Dr. Gregory Eirich's Social Network Analysis class.<br>
+* The interative LDA visualization output was set up by referring to some of the existing text preprocessing functions from Dr. Patrick Houlihan's _utils.py_ codebook.<br>
 * Other references:
     + https://www.tidytextmining.com/sentiment.html
     + https://r-graph-gallery.com/196-the-wordcloud2-library.html
     + https://www.youtube.com/watch?v=Fxdqwqo-1TI
     + https://bookdown.org/yihui/rmarkdown/revealjs.html
     + https://dune.com/amiloski/nft-platform-sales
-    + https://bookdown.org/yihui/rmarkdown-cookbook/include-html.html
-* Relevant codes on GitHub repository:
-    + https://github.com/QMSS-G5063-2022/Group_Y_NFT/blob/main/Final_Project.Rmd
-    + https://github.com/QMSS-G5063-2022/Group_Y_NFT/blob/main/lda_script.ipynb
-    + https://github.com/QMSS-G5063-2022/Group_Y_NFT/blob/main/nftnetwork_script.ipynb
+    + https://bookdown.org/yihui/rmarkdown-cookbook/include-html.html <br>
+* GitHub repository (including RMarkdown file, Python notebooks of LDA and Network, and the Process Book): 
+https://github.com/QMSS-G5063-2022/Group_Y_NFT
     
 
 </small>
