@@ -761,7 +761,7 @@ _(Note: the pyLDAvis is a Python API for interactive topic model visualization. 
 
 <small>
 
-* The NFT network made references to this network analysis tutorial https://github.com/AveryData/NFT-Network-Analytics and several course materials from Dr. Gregory Eirich's Social Network Analysis class.
+* The NFT network made references to Avery Smith's network analysis tutorial and several course materials from Dr. Gregory Eirich's Social Network Analysis class.
 * The interative LDA visualization output was set up by referring to some of the existing text preprocessing functions from Dr. Patrick Houlihan's _utils.py_ codebook.
 * Other references:
     + https://www.tidytextmining.com/sentiment.html
